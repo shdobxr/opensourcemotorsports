@@ -1,6 +1,6 @@
 baseURL = "https://shdobxr.github.io"
 languageCode = "en-us"
-#title = "opensourcemotorsports"
+title = "opensourcemotorsports"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
