@@ -1,4 +1,4 @@
-baseURL = "https://opensourcemotorsports.com/"
+baseURL = "https://shdobxr.github.io/"
 languageCode = "en-us"
 title = "opensourcemotorsports"
 theme = "ananke"
@@ -27,5 +27,5 @@ enableRobotsTXT = true
   slack           = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-red"
-  featured_image = "/images/bg.png"
+  featured_image = "/images/bg.jpg"
   recent_posts_number = 2
