@@ -2,6 +2,7 @@
 title: "Self"
 date: 2020-01-01T17:22:02-05:00
 draft: false
+featured_image: ''
 ---
 {{< figure src="/images/bg.png"
 title="About this dude" >}}

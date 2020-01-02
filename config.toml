@@ -1,11 +1,11 @@
-baseURL = ""
+baseURL = "https://shdobxr.github.io"
 languageCode = "en-us"
 title = "opensourcemotorsports"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
+#SectionPagesMenu = "main"
 #Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
@@ -15,17 +15,40 @@ enableRobotsTXT = true
   commentoEnable  = true
   disqusShortname = "s2kproject"
   favicon         = ""
-  description     = "The last theme you'll ever need. Maybe."
+  description     = ""
   facebook        = ""
   twitter         = "https://twitter.com/shdobxr"
   instagram       = ""
   youtube         = ""
-  github          = ""
+  github          = "https://github.com/shdobxr"
   gitlab          = ""
-  linkedin        = ""
+  linkedin        = "https://www.linkedin.com/in/dan-girard/"
   mastodon        = ""
   slack           = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-red"
   featured_image = "/images/bg.png"
-  recent_posts_number = 2
+#  recent_posts_number = 2
+
+[menu]
+
+  [[menu.main]]
+    identifier = "Main"
+    name = "Main"
+    title = "blog section"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    identifier = "Posts"
+    name = "Posts"
+    title = "Postings"
+    url = "/posts"
+    weight = -100
+
+  [[menu.main]]
+    identifier = "Self"
+    name = "Self"
+    title = "Self"
+    url = "/self"
+    weight = -100
