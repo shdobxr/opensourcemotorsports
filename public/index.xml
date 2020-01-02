@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>opensourcemotorsports</title>
+    <link>/</link>
+    <description>Recent content on opensourcemotorsports</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 16:25:57 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is this mic even on ?</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 01 Jan 2020 16:25:57 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Hey Guys, apologies for the downtime however there was a bit of hussle around the holidays. With swapping out the blogging software, to sourcing parts, getting gifts for family members. It&amp;rsquo;s been hard to find time to turn a wrench. That said no complaints, just wanted to bring the site back to life with more material.</description>
+    </item>
+    
+  </channel>
+</rss>
