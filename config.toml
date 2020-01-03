@@ -1,21 +1,22 @@
-baseURL = "https://shdobxr.github.io"
+baseURL = "https://www.opensourcemotorsports.com"
 languageCode = "en-us"
-title = "opensourcemotorsports"
+title = "www.opensourcemotorsports.com"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
-#SectionPagesMenu = "main"
+SectionPagesMenu = "main"
 #Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
 
 [params]
-#  commentoEnable  = true
+  description     = "The last theme you'll ever need. Maybe."
   disqusShortname = "s2kproject"
+  commentoEnable  = true
+  title = "Test"
   favicon         = ""
-  description     = ""
   facebook        = ""
   twitter         = "https://twitter.com/shdobxr"
   instagram       = ""
@@ -30,25 +31,25 @@ enableRobotsTXT = true
   featured_image = "/images/bg.png"
 #  recent_posts_number = 2
 
-[menu]
-
-  [[menu.main]]
-    identifier = "Main"
-    name = "Main"
-    title = "blog section"
-    url = "/"
-    weight = -110
-
-  [[menu.main]]
-    identifier = "Posts"
-    name = "Posts"
-    title = "Postings"
-    url = "/posts"
-    weight = -100
-
-  [[menu.main]]
-    identifier = "Self"
-    name = "Self"
-    title = "Self"
-    url = "/self"
-    weight = -100
+#[menu]
+#
+#  [[menu.main]]
+#    identifier = "Main"
+#    #name = "Main"
+#    title = "Main"
+#    url = "/"
+#    weight = -110
+#
+#  [[menu.main]]
+#    identifier = "Posts"
+#    name = "Posts"
+#    title = "Postings"
+#    url = "/posts"
+#    weight = -100
+#
+#  [[menu.main]]
+#    identifier = "Self"
+#    name = "Self"
+#    title = "Self"
+#    url = "/self"
+#    weight = -100

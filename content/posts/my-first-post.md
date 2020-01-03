@@ -1,5 +1,6 @@
 ---
-title: "Is this mic even on ?"
+title: "Need to give back"
+description: "Awhile back I was given the opportunity to learn, time and energy were given to me. This is my attempt to provide it back so that others may learn."
 date: 2020-01-01T16:25:57-05:00
 featured_image: "/images/father_and_son.jpg"
 draft: false
