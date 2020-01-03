@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 
 [params]
-  commentoEnable  = true
+#  commentoEnable  = true
   disqusShortname = "s2kproject"
   favicon         = ""
   description     = ""

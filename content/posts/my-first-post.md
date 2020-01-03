@@ -5,3 +5,11 @@ featured_image: "/images/father_and_son.jpg"
 draft: false
 ---
 Hey Guys, apologies for the downtime however there was a bit of hussle around the holidays. With swapping out the blogging software, to sourcing parts, getting gifts for family members. It's been hard to find time to turn a wrench. That said no complaints, just wanted to bring the site back to life with more material.
+
+Was going to use Nikola, for the static webhosting, but found hugo and surge. And that is enough for me to get this up and running. 
+
+Will be bringing back some of those parts and lists to follow on posts. To include a "data" area where I can share specific elements of my build for the betterment of any other s2k modder out there.
+
+Cheers,
+
+DG
