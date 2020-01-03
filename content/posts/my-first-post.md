@@ -2,7 +2,7 @@
 title: "Need to give back"
 date: 2020-01-01T16:25:57-05:00
 description: "Awhile back I was given the opportunity to learn, time and energy were given to me. This is my attempt to provide it back so that others may learn."
-featured_image: "/images/father_and_son.jpg"
+featured_image: "/images/tach.jpg"
 draft: false
 ---
 Hey Guys, apologies for the downtime however there was a bit of hussle around the holidays. With swapping out the blogging software, to sourcing parts, getting gifts for family members. It's been hard to find time to turn a wrench. That said no complaints, just wanted to bring the site back to life with more material.
