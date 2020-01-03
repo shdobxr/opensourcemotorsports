@@ -14,7 +14,7 @@ enableRobotsTXT = true
 [params]
   description     = "The last theme you'll ever need. Maybe."
   disqusShortname = "s2kproject"
-  commentoEnable  = true
+  commentoEnable  = false
   title = "Test"
   favicon         = ""
   facebook        = ""
