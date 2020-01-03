@@ -2,7 +2,7 @@
 title: "Site Up"
 date: 2020-01-03T16:52:01-05:00
 description: "The site is starting to take shape"
-featured_image: "/images/bg.png"
+featured_image: "/images/work.jpg"
 draft: false
 ---
 
