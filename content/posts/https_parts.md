@@ -3,7 +3,7 @@ title: "Https and Parts"
 date: 2020-11-11T10:19:19-05:00
 description: "Rona... and parts sourcing"
 featured_image: "/images/engine2.jpg"
-draft: true
+draft: false
 ---
 
 I just won't say anything about 2020. We all got the t-shirt and membership to
