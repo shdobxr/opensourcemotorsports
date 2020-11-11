@@ -4,8 +4,8 @@ HUGO := hugo
 PUBLIC_FOLDER := public/
 S3_BUCKET = s3://www.osms.io/
 CLOUDFRONT_ID := E2RFVGWV7BUHTG
-DOMAIN = osms.io
-SITEMAP_URL = https://osms.io/sitemap.xml
+DOMAIN = www.osms.io
+SITEMAP_URL = https://www.osms.io/sitemap.xml
 
 DEPLOY_LOG := deploy.log
 
