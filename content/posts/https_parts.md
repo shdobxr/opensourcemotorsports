@@ -15,11 +15,10 @@ https://usedjdmengine.com/
 
 https://www.ebay.com/str/usedjdmengineinc
 
-<p align="center"> <img src="/images/engine2.jpg" style="width:50%;">Rear View</p>
+![k24a2](/engine2.jpg)
 
-The engine came in pretty good shape, friendly customer service and they even shipped
-local to me in local NOVA. Awesome customer service, and will be definitely working
-with them in the future for sourcing used s2000 parts if needed.
+The engine came in pretty good shape from what I can tell externally. Usedjdmengine
+was interested in getting the eyes of those friends on the kswap facebook group.
 
 Up next is getting the motor mounted to the stand, and frankly I may do a video
 on that since getting the motor I want to perform a "cold" leakdown test.
@@ -28,13 +27,16 @@ I know the numbers will not be close to a warm leakdown, this is more for lookin
 for pressure uniformity with the engine at a cold state. If something is wrong
 with the motor this will help diagnose that ahead of time.
 
-Also a shoutout to Urge Designs (https://urgedesigns.com/) for making the billet rear hubs.
+![hub](/hub.jpg)
+
+Also a shout out to Urge Designs (https://urgedesigns.com/) for making the billet rear hubs.
 If you wanted some quality custom pieces to get designed, these are the guys to talk
 to. They are known for their parts, and the quality of them.
 
-Urge's customer support was top notch, I knew where the part was and heck they
-even wanted feedback on how the part performed. While I am not really ready to
-test them out, I will be sure to let them know once Addie is back in K form.
+Urge's customer support was top notch, I knew where the part was from order to
+and they even wanted feedback on how the part performed post install. While I am
+ not really ready to test them out, I will be sure to let them know once Addie
+ is back in K form.
 
 <p align="center"> <img src="/images/hub.jpg" style="width:50%;">Side View</p>
 
