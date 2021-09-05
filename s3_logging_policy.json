@@ -1,7 +1,0 @@
-{
-  "LoggingEnabled": {
-    "TargetBucket": "osms-logs",
-    "TargetPrefix": "cdn/"
-  }
-}
-
